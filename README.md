@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+![rfm-customer-segmentation-sql-server](CustomerSegmentation.png)
+
 This project uses **Microsoft SQL Server** to analyze transaction-level sales data and identify meaningful customer segments using **RFM analysis**.
 
 The analysis transforms raw transaction data into actionable business insights around:
