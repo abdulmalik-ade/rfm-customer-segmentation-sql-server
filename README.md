@@ -211,9 +211,10 @@ The analysis works directly from the imported staging table.
 ```text
 rfm-customer-segmentation-sql-server/
 │
-├── RFM_Customer_Segmentation_SQL_Server.sql
-│
-└── README.md
+├── CustomerSegmentation.png
+├── README.md
+├── RFMCustomerSegmentationAnalysis.sql
+└── raw_rfm_sales_transactions_3000.csv
 ```
 
 ---
@@ -227,3 +228,17 @@ The final output provides a framework for answering:
 > **Who are our most valuable customers, who are we at risk of losing, and what should the business do about it?**
 
 The result is an actionable customer segmentation and retention analysis suitable for real-world data analyst workflows.
+
+---
+
+## 🌐 Connect With Me & Portfolio Links
+
+Feel free to explore the full suite of my data work and reach out for collaboration!
+
+* **💼 LinkedIn:** [Abdulmalik Tajudeen](https://www.linkedin.com/in/abdulmalik-tajudeen-86602b38b)
+* **🎨 Portfolio Website:** [My Portfolio Link](https://abdulmalik-ade.github.io/)
+* **✉️ Email:** [My Email](mailto:abdulmaliktajudeen5@gmail.com)
+
+---
+*Disclaimer: All sensitive company information and raw data assets have been fully anonymized and synthetic attributes applied to safeguard proprietary configurations.*
+
